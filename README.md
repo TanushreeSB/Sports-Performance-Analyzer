@@ -2,15 +2,8 @@
 
 Dataset: https://www.kaggle.com/datasets/ziya07/athlete-injury-and-performance-dataset/data
 
-Sure ✅ — here’s a clear, professional **README.md** for your **Athlete Injury and Performance Analysis** project (including the gender analysis section).
 
-You can copy this directly into your project folder as `README.md` on GitHub.
-
----
-
-# 🏋️‍♀️ Athlete Injury and Performance Analysis
-
-## 📘 Overview
+## Overview
 
 This project analyzes how various physical, training, and injury-related factors influence **athlete performance levels**.
 It uses multiple machine learning models to predict performance outcomes and provides insights through exploratory data analysis (EDA) — including **gender-based performance comparison** and **feature importance interpretation**.
@@ -19,7 +12,7 @@ The dataset is sourced from [Kaggle — Athlete Injury and Performance Dataset](
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Understand how training and injury attributes affect athletic performance.
 * Compare the impact of **gender differences** on performance outcomes.
@@ -39,7 +32,7 @@ The dataset contains information about:
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 
@@ -97,7 +90,7 @@ This helps determine if gender plays a significant role in performance or injury
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 * Correlation heatmap
 * Gender-based boxplots and countplots
