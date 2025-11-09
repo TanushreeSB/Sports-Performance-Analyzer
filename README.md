@@ -21,7 +21,7 @@ The dataset is sourced from [Kaggle — Athlete Injury and Performance Dataset](
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains information about:
 
@@ -79,7 +79,7 @@ For tree-based models (Random Forest, XGBoost, etc.), feature importance is plot
 
 ---
 
-## ⚧ Gender-Based Analysis
+## Gender-Based Analysis
 
 * **Gender distribution** visualization
 * **Performance comparison** (Male vs Female)
@@ -99,7 +99,7 @@ This helps determine if gender plays a significant role in performance or injury
 
 ---
 
-## 🏁 Results Summary
+## Results Summary
 
 * Models are ranked by accuracy and ROC-AUC score.
 * Insights on which attributes (e.g., training load, injury duration, gender) most strongly affect performance.
